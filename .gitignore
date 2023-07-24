@@ -1,3 +1,6 @@
+# api credentials
+.env
+
 # virtual env
 satellite-fun
 
