@@ -7,7 +7,7 @@ load_dotenv()
 
 def main():
     satellite_catcher = SatelliteCatcher()
-    sat = satellite_catcher.catch_sats("ISS")
+    sat = satellite_catcher.catch_sats("ISS (ZARYA)")
     print(sat)
 
 if __name__ == "__main__":
